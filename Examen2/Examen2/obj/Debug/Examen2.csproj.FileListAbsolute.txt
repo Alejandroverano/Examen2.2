@@ -1,0 +1,12 @@
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.csproj.AssemblyReference.cache
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.Form1.resources
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.Properties.Resources.resources
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.csproj.GenerateResource.cache
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\bin\Debug\Examen2.exe.config
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\bin\Debug\Examen2.exe
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\bin\Debug\Examen2.pdb
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.Form2.resources
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.exe
+C:\Users\CCBB-6\source\repos\Examen2\Examen2\obj\Debug\Examen2.pdb
